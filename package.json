@@ -1,5 +1,5 @@
 {
-  "proxy": "http://localhost:3000",
+  "proxy": "https://soft-baklava-961020.netlify.app/",
   "name": "backend",
   "version": "1.0.0",
   "description": "",
